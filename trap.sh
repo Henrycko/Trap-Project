@@ -38,7 +38,7 @@ echo " ==    Trap Project     =="
 sleep 0.7
 echo " ========================="
 echo " Trap Project adalah tools untuk"
-echo " mendapatkan IP atau lokasi Target"
+echo " Melacak IP atau lokasi Target"
 echo
 echo Selamat datang $nick ":)" Jones! :v
 echo 
@@ -55,7 +55,7 @@ else
 
 
     if [ $confirm = "y" ]; then
-        echo "Masukan nama file yang sudah kamu buat"
+        echo "Masukan nama file yang sudah dibuat"
         echo "Untuk melakukan pengecekan hasil"
         read file
         echo "Melakukan Pengecekan"
