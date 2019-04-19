@@ -1,8 +1,8 @@
 #!/bin/bash
 
-echo Selamat datang kak, Siapa nick kaka? #tulisan keluar
+echo Selamat datang kakak LUTHFI, Siapa nick kaka? #tulisan keluar
 read nick #membaca yang ditulis
-echo "       ) _     _ "
+echo "       ) _LUTHFI_ "
 sleep 0.03
 echo "      ( (^)-~-(^) "
 sleep 0.03
