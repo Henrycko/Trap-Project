@@ -87,7 +87,7 @@ load(){
       done
 }
 clear
-echo "Loading .."
+echo "Loading ..."
 load
 clear
 trap
